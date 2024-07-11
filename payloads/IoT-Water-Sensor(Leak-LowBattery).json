@@ -1,0 +1,20 @@
+{
+    "ver": 2,
+    "msg": 1476,
+    "time": 1719974078000,
+    "sn": 9999999999999,
+    "leak": 1,
+    "analog": 69,
+    "bat": 3651,
+    "RAT": "LTE",
+    "rssi": -57,
+    "rsrp": -62,
+    "rsrq": 28,
+    "ci": "99999999",
+    "tac": "9999999",
+    "low_batt": 1,
+    "debug0": 0,
+    "debug1": 0,
+    "Battery": 3651,
+    "switch": "No Water Leakage"
+}
