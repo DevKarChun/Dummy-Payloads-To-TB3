@@ -49,7 +49,7 @@ The script will start a background task that sends the payload data to the speci
 
 3. The script will log all the actions to the `./logs/TB3DummyPayload.log` file and the console.
 
-## Customization
+## Customisation
 
 You can customize the following aspects of the script:
 
